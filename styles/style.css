@@ -1,0 +1,38 @@
+img{
+    display: block;
+    margin: 0 auto;
+    width: 600px;
+}
+
+html {
+    font-size: 10px;
+    font-family: 'Unbounded', cursive;
+    background-color: #9cbee0;
+  }
+
+  h1{
+    font-size: 45px;
+    text-align: center;
+  }
+
+  p,li{
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+
+  body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff9d15;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+  h1{
+    margin: 0;
+    padding: 20px 0;
+    color: #e70bb0;
+    text-shadow: 3px 3px 1px black;
+  }
+  
